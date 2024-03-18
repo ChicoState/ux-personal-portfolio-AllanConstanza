@@ -9,4 +9,4 @@ Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](j01/)
+[Desktop Apple Music](j01/)
