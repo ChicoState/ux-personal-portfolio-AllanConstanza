@@ -6,7 +6,7 @@ My name is Allan Constanza, I am a third year computer science major, and I am f
 ## UX Team Project
 
 Coming soon.
-[Animal Adopter]
+
 
 
 ## UX Journal
