@@ -1,6 +1,6 @@
 # Desktop Apple Music
 
-I use Apple Music on a daily basis. It is a music streaming platform that is exclusive to only Apple products. I love listening to music everywhere I go, whether it’s walking to class or just doing homework, and I have an iPhone and a macbook, so Apple Music is the most convenient streaming platform for me. A common feature for Apple Music and every music streaming platform is the back button. It is one of the most basic features that any streaming platform should have. 
+I use Apple Music on a daily basis. It is a music streaming platform that is exclusive to only Apple products. Although other music streaming platforms are available, I find Apple Music to be the most convenient streaming platform for me. A common feature for Apple Music and every music streaming platform is the back button. It is one of the most basic features that any streaming platform should have. 
 
 When listening to most playlists, like playlists that I have made myself, or shuffling every song I have downloaded from my library, the back button is available. For example, here I am playing the entirety of Calvin Harris’ album. As seen at the top of the screen,common **conventions** like both the _back and shuffle buttons_ are available. <img width="1552" alt="Screenshot 2024-03-17 at 5 52 04 PM" src="https://github.com/ChicoState/ux-personal-portfolio-AllanConstanza/assets/75638009/81204701-d226-4ef1-b60d-9df6c7371ccc">
 
