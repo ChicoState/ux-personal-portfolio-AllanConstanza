@@ -9,8 +9,7 @@ When listening to most playlists, like playlists that I have made myself, or shu
 
 However, when using Apple Music on my Macbook, the back button does not function with certain playlists. This is a major inconvenience, especially when playing the “Discovery Station”, a playlist created by Apple Music that chooses song recommendations for each user. 
 <img width="1552" alt="Screenshot 2024-03-17 at 5 52 31 PM" src="https://github.com/ChicoState/ux-personal-portfolio-AllanConstanza/assets/75638009/a18942ba-6a83-4017-8c86-1a4d07b0db8d">
-
-***Caption***
+                        ***Back button is not available in this example*** 
 
 
 
