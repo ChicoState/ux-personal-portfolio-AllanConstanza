@@ -5,7 +5,7 @@ My name is Allan Constanza, I am a third year computer science major, and I am f
 
 ## UX Team Project
 
-[AnimalAdopter](https://chicostate.github.io/ux-animal-adopter)
+[AnimalAdopter](https://chicostate.github.io/UX-animal-adopter)
 
 
 
